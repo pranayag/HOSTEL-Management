@@ -17,7 +17,7 @@
   <div style= "text-align: center; color: white;font-size: 40px;font-family:'Orbitron', sans-serif;
   "><h2>Q.me</h2>
     <h1>YE TO MERA PROJECT HAI</h1>
-    
+    <h1>Q.me is question bank portal for students preparing for competitive exams</h1>
 
   </div>
 </div>
